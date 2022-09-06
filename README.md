@@ -1,5 +1,11 @@
 # Codo a Codo: Grupo 15 - TPO Desarrollo WEB
 
+## Integrantes
+
+- Dri Jorge Osvaldo
+- Bruna Bruno
+- Comas Tavella Juan Cruz
+
 ## cac_grupo_15_tpo_web
 
 TPO Desarrollo Web
